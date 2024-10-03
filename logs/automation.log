@@ -1,0 +1,94 @@
+10/02/2024  09:20:53 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:20:55 PM: INFO: Launching Application
+10/02/2024  09:20:55 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:20:56 PM: INFO: Proving customer details for registration
+10/02/2024  09:21:40 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:21:42 PM: INFO: Launching Application
+10/02/2024  09:21:42 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:21:43 PM: INFO: Proving customer details for registration
+10/02/2024  09:21:45 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:21:45 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:25:27 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:25:29 PM: INFO: Launching Application
+10/02/2024  09:25:29 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:25:30 PM: INFO: Proving customer details for registration
+10/02/2024  09:25:32 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:25:33 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:27:01 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:27:03 PM: INFO: Launching Application
+10/02/2024  09:27:03 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:27:04 PM: INFO: Proving customer details for registration
+10/02/2024  09:27:06 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:27:07 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:28:50 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:28:52 PM: INFO: Launching Application
+10/02/2024  09:28:52 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:28:54 PM: INFO: Proving customer details for registration
+10/02/2024  09:28:56 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:28:57 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:32:00 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:32:03 PM: INFO: Launching Application
+10/02/2024  09:32:03 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:32:05 PM: INFO: Proving customer details for registration
+10/02/2024  09:32:06 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:32:07 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:32:51 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:32:54 PM: INFO: Launching Application
+10/02/2024  09:32:54 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:32:55 PM: INFO: Proving customer details for registration
+10/02/2024  09:32:57 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:32:57 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:33:27 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:33:29 PM: INFO: Launching Application
+10/02/2024  09:33:29 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:33:30 PM: INFO: Proving customer details for registration
+10/02/2024  09:33:32 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:33:32 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:44:12 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  09:44:16 PM: INFO: ******* End of test_002_login **********
+10/02/2024  09:45:21 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:45:21 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:45:22 PM: INFO: Launching Application
+10/02/2024  09:45:22 PM: INFO: Launching Application
+10/02/2024  09:45:23 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:45:23 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:45:24 PM: INFO: Proving customer details for registration
+10/02/2024  09:45:24 PM: INFO: Proving customer details for registration
+10/02/2024  09:45:26 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:45:26 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:45:26 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:45:26 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:45:30 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  09:45:30 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  09:45:34 PM: INFO: ******* End of test_002_login **********
+10/02/2024  09:45:34 PM: INFO: ******* End of test_002_login **********
+10/02/2024  09:45:55 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:45:55 PM: INFO: *** test_001_AccountRegister TestCase Started ***
+10/02/2024  09:45:56 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  09:45:56 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  09:46:01 PM: INFO: Launching Application
+10/02/2024  09:46:01 PM: INFO: Launching Application
+10/02/2024  09:46:01 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:46:01 PM: INFO: Clicking on My Account Element ==> Register
+10/02/2024  09:46:02 PM: INFO: ******* End of test_002_login **********
+10/02/2024  09:46:02 PM: INFO: ******* End of test_002_login **********
+10/02/2024  09:46:04 PM: INFO: Proving customer details for registration
+10/02/2024  09:46:04 PM: INFO: Proving customer details for registration
+10/02/2024  09:46:05 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:46:05 PM: INFO: Acoount Registration is Passed
+10/02/2024  09:46:05 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  09:46:05 PM: INFO: **** test_001_AccountRegistration finished *** 
+10/02/2024  10:14:54 PM: INFO: **** Starting test_003_login_Datadriven *******
+10/02/2024  10:16:06 PM: INFO: **** Starting test_003_login_Datadriven *******
+10/02/2024  10:21:57 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  10:21:57 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  10:21:57 PM: INFO: ******* Starting test_002_login **********
+10/02/2024  10:22:02 PM: INFO: ******* End of test_002_login **********
+10/02/2024  10:22:02 PM: INFO: ******* End of test_002_login **********
+10/02/2024  10:22:02 PM: INFO: ******* End of test_002_login **********
+10/03/2024  09:10:17 PM: INFO: ******* Starting test_002_login **********
+10/03/2024  09:10:17 PM: INFO: ******* Starting test_002_login **********
+10/03/2024  09:10:17 PM: INFO: ******* Starting test_002_login **********
+10/03/2024  09:10:21 PM: INFO: ******* End of test_002_login **********
+10/03/2024  09:10:21 PM: INFO: ******* End of test_002_login **********
+10/03/2024  09:10:21 PM: INFO: ******* End of test_002_login **********
